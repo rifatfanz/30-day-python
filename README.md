@@ -12,7 +12,7 @@ Goal: Build a complete To-Do App by the end of 30 days.
 
 
 ### Day 2: Odd Or Even Game
-- Learned: `input()`, `variables`, `f-string`
+- Learned: `while loop`, `if-else-elif`, `import random`
 - File: `day-2-odd-or-even.py`
 - Description: A mini game basic
 
@@ -20,7 +20,8 @@ Goal: Build a complete To-Do App by the end of 30 days.
 
 ## How to Run
 ```bash
+# Day 1
 python Day-1-Variable-input-print.py
 
-```bash
+# Day 2
 python day-2-odd-or-even.py
