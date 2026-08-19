@@ -7,7 +7,7 @@ Goal: Build a complete To-Do App by the end of 30 days.
 
 ### Day 1: Variables, Input, Print
 - Learned: `input()`, `variables`, `f-string`
-- File: `day-1-varriable-input-print.py`
+- File: `day-1-variable-input-print.py`
 - Description: Takes student's name, department and DOB and prints a profile.
 
 
