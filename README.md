@@ -17,6 +17,10 @@ Goal: Build a complete To-Do App by the end of 30 days.
 - Description: A mini game basic
 
 ### Day 3:
+- Learned: `While loop`, `operations`
+- File: `day-3-calculator.py`
+- Description: A simple calculator using while loop and if-elif-else operations.
+
 
 ## How to Run
 ```bash
